@@ -19,6 +19,7 @@ Then, press enter or click the search icon and an interface of the weather in th
 ## Author
 
 John Evereth
+
 [info@johnevereth.com](mailto:info@johnevereth.com)
 
 [www.johnevereth.com](https://johnevereth.com/)
